@@ -2,7 +2,8 @@
 
 ## Get App in full screen with status bar and navigation bar transparent
 ![Screenshot_20230307_100007](https://user-images.githubusercontent.com/68729523/223321096-da8e35db-cffa-4fb2-b75a-ae96bf1e75bc.png)
-Want somthing like this?
+
+*Want somthing like this?*
 
 Import this on top
 
