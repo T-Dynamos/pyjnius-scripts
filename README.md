@@ -30,6 +30,8 @@ Add this function in your code and call it in `build` function.
         window.setNavigationBarColor(Color.TRANSPARENT)
         window.setStatusBarColor(Color.TRANSPARENT)
 ```
+(Here `self.BarMode` is bool. It sets the color of text and icons in staus and navigation bar)
+
 *If you have custom _android.entrypoint_ please replace it with `org.kivy.android.PythonActivity`*
 
 Add this in _buildozer.spec_:
